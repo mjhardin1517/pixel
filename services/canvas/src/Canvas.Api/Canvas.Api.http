@@ -1,0 +1,6 @@
+@Canvas.Api_HostAddress = http://localhost:5286
+
+GET {{Canvas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

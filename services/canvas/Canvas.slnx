@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Canvas.Api/Canvas.Api.csproj" />
+    <Project Path="src/Canvas.Core/Canvas.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Canvas.Tests/Canvas.Tests.csproj" />
+  </Folder>
+</Solution>
